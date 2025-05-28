@@ -52,10 +52,8 @@ public class ConversorMonedaAPI {
         }
     }
 
-    // Método main para probar el programa
     public static void main(String[] args) {
         // Ejemplo: convertir 100 USD a EUR
         convertir("USD", "EUR", 100);
     }
 }
-
