@@ -10,7 +10,7 @@ import java.net.URL;
 
 public class ConversorMonedaAPI {
 
-    static final String API_KEY = "9f2e18faee4318488dabd340";
+    static final String API_KEY = "EXCHANGE_API_KEY";
 
     public static void convertir(String monedaOrigen, String monedaDestino, double cantidad) {
         try {
